@@ -1,0 +1,22 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 46, in script
+    nvle "Hola, mi nombre es [yourName] tengo 19 años de edad, estoy a punto de empezar una nueva vida universitaria; Estoy tan emocionad[s]
+Exception: Sayer 'nvle' is not defined.
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 46, in script
+    nvle "Hola, mi nombre es [yourName] tengo 19 años de edad, estoy a punto de empezar una nueva vida universitaria; Estoy tan emocionad[s]
+  File "D:\Downloads\renpy\renpy-7.3.5-sdk\renpy\ast.py", line 678, in execute
+    who = eval_who(self.who, self.who_fast)
+  File "D:\Downloads\renpy\renpy-7.3.5-sdk\renpy\ast.py", line 576, in eval_who
+    raise Exception("Sayer '%s' is not defined." % who.encode("utf-8"))
+Exception: Sayer 'nvle' is not defined.
+
+Windows-8-6.2.9200
+Ren'Py 7.3.5.606
+NovelaTwitch 1.0
+Thu Dec 12 13:06:53 2019

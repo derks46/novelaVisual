@@ -1,0 +1,23 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 46: expected statement.
+(Perhaps you left out a " at the end of the first line.)
+    nvl "Hola, mi nombre es [yourName] tengo 19 años de edad, estoy a punto de empezar una nueva vida universitaria; Estoy tan emocionad[s]
+       ^
+        por esto que simplemente no se cómo sentirme al respecto, se podría decir que todos los niveles de educación en mi vida fueron un poco, \"decepcionantes\",
+        siempre fui muy buen[s] en los estudios, me encanta aprender pero esto usualmente me causaba problemas con mis compañeros de clase,
+        nunca pude encajar en nungún grupo, pero espero que esta vez sea diferente, tal vez pueda hacer nuevos amigos, o por lo menos no ser un
+        bicho raro con el que nadie quiera estar."
+
+File "game/script.rpy", line 52: expected statement.
+(Perhaps you left out a " at the end of the first line.)
+    nvl "Supongo que me cuesta relacionarme gracias a que soy un poco diferente a los demás,
+       ^
+        mis padres fallecieron cuando era niñ[s] y mi hermana mayor se encargó de mí, por eso quiero ser [el] mejor en la escuela,
+        siento que se los debo, quiero convertirme en alguien de quien pudieran estar orgullosos, lo lograre cueste lo que cueste.
+        Pero eso no importa ahora, he dejado todo atras y estoy list[s] para empezar "
+
+Ren'Py Version: Ren'Py 7.3.5.606
+Thu Dec 12 13:06:00 2019
